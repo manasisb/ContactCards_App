@@ -1,0 +1,1 @@
+Often times i find difficult to associate faces with my contact names and hence developed this small contact cards application which can help store email address, phone number, contacts image along with the name all at same place.
