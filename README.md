@@ -1,4 +1,4 @@
-* Why this application?
+**Why this application?**
 
 Often times i find difficult to associate faces with my contact names and hence developed this small contact cards application which can help store contacts image, email address, phone number along with the name all at same place.
 
