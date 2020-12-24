@@ -10,3 +10,4 @@ Often times i find difficult to associate faces with my contact names and hence 
 * Run npm install
 * npm start
 
+![Contact_Card](/Contact_CardApp.png)
